@@ -74,7 +74,7 @@ const Navbar = () => {
 
         {/*   HERO */}
         <div className="flex flex-col w-5/6 gap-3 mx-auto mt-16 text-white lg:container lg:max-w-5xl lg:w-full">
-          <p className="font-semibold text-zinc-400">Hola, soy Lautaro 👋🏻</p>
+          <p className="font-semibold text-zinc-400">Hi, I am Lautaro 👋🏻</p>
 
           <h1 className="text-3xl font-black">Frontend Developer</h1>
 
